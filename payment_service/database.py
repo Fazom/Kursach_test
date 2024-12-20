@@ -7,11 +7,11 @@ class Database:
 
     async def connect(self):
         self.pool = await asyncpg.create_pool(
-            user="postgres",  # Замените на ваше имя пользователя PostgreSQL
-            password="yalokin4002",  # Замените на ваш пароль
-            database="transactions_db",  # Имя базы данных
-            host="localhost",  # Адрес сервера базы данных
-            port=5432  # Порт PostgreSQL
+            user="postgres",  
+            password="yalokin4002",  
+            database="transactions_db",  
+            host="localhost",  
+            port=5432  
         )
 
     async def disconnect(self):

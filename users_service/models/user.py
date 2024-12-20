@@ -16,4 +16,3 @@ class UserOut(BaseModel):
     username: str
     email: EmailStr
     role: str
- # Добавляем chat_id для хранения информации о пользователе в базе

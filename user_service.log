@@ -1,0 +1,10 @@
+2024-12-20 15:18:21,139 - users_service - INFO - Attempting to login user: Белявский
+2024-12-20 15:18:21,371 - users_service - INFO - User Белявский successfully authenticated
+2024-12-20 15:18:24,903 - users_service - INFO - Attempting to retrieve appointments for user ID: 2
+2024-12-20 15:18:24,908 - users_service - INFO - Retrieved 5 appointments for user ID: 2
+2024-12-20 15:20:49,297 - users_service - INFO - Attempting to login user: Белявский
+2024-12-20 15:20:49,536 - users_service - INFO - User Белявский successfully authenticated
+2024-12-20 15:20:51,672 - users_service - INFO - Attempting to retrieve appointments for user ID: 2
+2024-12-20 15:20:51,674 - users_service - INFO - Retrieved 5 appointments for user ID: 2
+2024-12-20 19:35:54,023 - users_service - INFO - Attempting to login user: Белявский
+2024-12-20 19:35:54,251 - users_service - INFO - User Белявский successfully authenticated
